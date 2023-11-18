@@ -17,3 +17,107 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaniprasetia&show_icons=true&locale=en&layout=compact" alt="ghaniprasetia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghaniprasetia&show_icons=true&locale=en" alt="ghaniprasetia" /></p>
+
+
+ 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skill Saya</b>
+
+<br>
+
+- Golang
+- Laravel
+- Codeigniter
+- Django
+- Nest JS
+- Vue JS
+- MYSQL
+- Docker
+- Nginx & Linux
+- HTML, CSS, JAVASCRIPT
+- Leaflet JS
+
+<br>
+<br>
+
+<div align="center">
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adnangomugomu&theme=algolia" alt="adnangomugomu" /></p>
+
+</div>
+
+<br>
+<br>
+
+<!-- --- -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<br>
+<br>
+
+<div align="center">
+
+## 🏆 Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnangomugomu&layout=compact&theme=algolia" alt="adnangomugomu" /></a> </p>
+
+</div>
+
+<br>
+<br>
+
+<!-- --- -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+<br>
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Analytics
+
+<a href="https://github.com/adnangomugomu">
+  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnangomugomu&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ridwan Renaldi stats" />
+  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adnangomugomu&layout=compact&theme=material-palenight" />
+</a>
+
+</div>
+
+<br>
+<br>
+
+<!-- --- -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+<br>
+
+<div align="center">
+
+## Popular Projects
+
+<p align="center">
+  <a href="https://github.com/adnangomugomu/portofolio">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=portofolio&theme=material-palenight" />
+  </a>
+
+  <a href="https://github.com/adnangomugomu/kuisioner-sma">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=kuisioner-sma&theme=material-palenight" />
+  </a>
+
+  <a href="https://github.com/adnangomugomu/laravel-gudang">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=laravel-gudang&theme=material-palenight" />
+  </a>
+
+  <a href="https://github.com/adnangomugomu/server-transfer-file">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=server-transfer-file&theme=material-palenight" />
+  </a>
+</p>
+
+</div>
+
+<br>
+<br>
+
+Last Edited on: 20/09/2023
