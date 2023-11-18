@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghani Prasetia</h1>
-<h3 align="center">I have been working as a Software Developer at Phicos Cipta Media since August 2022, I am responsible for implementing programming languages, especially PHP with the Laravel framework.</h3>
+<h3 align="center">I have been working as a Freelance, I am responsible for implementing programming languages, especially PHP with the Laravel framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaniprasetia&label=Profile%20views&color=0e75b6&style=flat" alt="ghaniprasetia" /> </p>
 
