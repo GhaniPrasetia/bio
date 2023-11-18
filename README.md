@@ -78,8 +78,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Analytics
 
 <a href="https://github.com/adnangomugomu">
-  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnangomugomu&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ridwan Renaldi stats" />
-  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adnangomugomu&layout=compact&theme=material-palenight" />
+  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ghaniprasetia&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ridwan Renaldi stats" />
+  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ghaniprasetia&layout=compact&theme=material-palenight" />
 </a>
 
 </div>
@@ -92,12 +92,3 @@
 
 <br>
 <br>
-
-<div align="center">
-
-</div>
-
-<br>
-<br>
-
-Last Edited on: 20/09/2023
