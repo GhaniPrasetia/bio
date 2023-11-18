@@ -95,26 +95,6 @@
 
 <div align="center">
 
-## Popular Projects
-
-<p align="center">
-  <a href="https://github.com/adnangomugomu/portofolio">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=portofolio&theme=material-palenight" />
-  </a>
-
-  <a href="https://github.com/adnangomugomu/kuisioner-sma">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=kuisioner-sma&theme=material-palenight" />
-  </a>
-
-  <a href="https://github.com/adnangomugomu/laravel-gudang">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=laravel-gudang&theme=material-palenight" />
-  </a>
-
-  <a href="https://github.com/adnangomugomu/server-transfer-file">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=server-transfer-file&theme=material-palenight" />
-  </a>
-</p>
-
 </div>
 
 <br>
